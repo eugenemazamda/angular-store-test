@@ -16,5 +16,5 @@ deploy:
   skip_cleanup: true
   keep-history: true
   api_key:
-    secure: 22e34966-3424-4f99-bde2-99822ce8a7c9
+    secure: $HEROKU_API_KEY
   app: game-store-angula
