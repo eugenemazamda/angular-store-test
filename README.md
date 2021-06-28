@@ -19,18 +19,6 @@ Three available demos:
 
 *Note: The demo websites may be slow when you access them for the first time. Be patient!*
 
-# Setup Locally
-## 1. RESTful API
-Setup server to host RESTful API with Spring Boot or ASP.NET Core, see below.
-* https://github.com/jojozhuang/restful-api-springboot
-* https://github.com/jojozhuang/restful-api-aspnet
-
-## 2. Angular App
-```bash
-git clone https://github.com/jojozhuang/game-store-angular.git
-cd game-store-angular
-npm install
-npm start
 ```
 Access http://localhost:12080/ in web browser, enjoy!
 
